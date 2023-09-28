@@ -1,3 +1,8 @@
+#GPIO D33
+#Vin 5V
+#Gnd
+
+
 // Import required libraries
 #include "WiFi.h"
 #include "ESPAsyncWebSrv.h"
