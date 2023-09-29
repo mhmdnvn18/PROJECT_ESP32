@@ -1,5 +1,5 @@
 //GPIO D33
-//Vin 5V
+//Vin 3,3V
 //Gnd
 
 
