@@ -1,6 +1,6 @@
-#GPIO D33
-#Vin 5V
-#Gnd
+//GPIO D33
+//Vin 5V
+//Gnd
 
 
 // Import required libraries
