@@ -11,7 +11,7 @@
 #define RELAY_NO    true
 
 // Assign GPIO to the relay
-const int relayGPIO = 33;
+const int relayGPIO = 2;
 
 // Replace with your network credentials
 const char* ssid = "YOUR WIFI SSID";
