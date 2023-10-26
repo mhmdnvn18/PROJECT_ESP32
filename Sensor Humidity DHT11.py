@@ -3,7 +3,7 @@
 #include <WiFi.h>
 #include <ESPAsyncWebSrv.h>
 
-#define DHTPIN 4     // Define the pin to which the DHT sensor is connected
+#define DHTPIN 2     // Change to pin 2
 #define DHTTYPE DHT11 // Define the DHT sensor type (DHT11 or DHT22)
 
 DHT dht(DHTPIN, DHTTYPE); // Initialize the DHT sensor
