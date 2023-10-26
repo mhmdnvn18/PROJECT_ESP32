@@ -1,3 +1,6 @@
+// 5V + GND
+// Trig Pin 13, Echo Pin 12
+
 #include <Wire.h>
 #include <Ultrasonic.h>
 #include <WiFi.h>
