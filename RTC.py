@@ -2,20 +2,18 @@
 #include <RTClib.h>  // Library RTC
 
 RTC_DS3231 rtc;  // Inisialisasi objek RTC
-const int GPIO_SDA = 21; // Pin GPIO untuk SDA
-const int GPIO_SCL = 22; // Pin GPIO untuk SCL
+
+const int SDA_PIN = 21; // Pin GPIO untuk SDA
+const int SCL_PIN = 22; // Pin GPIO untuk SCL
 
 void setup() {
   Serial.begin(115200);
-  Wire.begin(GPIO_SDA, GPIO_SCL);
+  Wire.begin(SDA_PIN, SCL_PIN);  // Inisialisasi komunikasi I2C dengan pin GPIO yang ditentukan
   rtc.begin();
 
   // Set waktu RTC jika diperlukan. Ini hanya perlu dilakukan sekali saat mengatur waktu awal.
   // rtc.adjust(DateTime(F(__DATE__), F(__TIME__)));
-
-  if (!rtc.isrunning()) {
-    Serial.println("RTC tidak berjalan! Silakan set waktu RTC.");
-  }
+  rtc.adjust(DateTime(2023, 10, 27, 12, 0, 0)); // Contoh: Menyetel waktu ke 27 Oktober 2023, pukul 12:00:00
 }
 
 void loop() {
