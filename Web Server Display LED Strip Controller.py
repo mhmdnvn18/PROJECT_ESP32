@@ -6,9 +6,9 @@ const char* ssid = "nama_wifi";
 const char* password = "password_wifi";
 
 // Pinout untuk LED strip
-const int pinLedG = 18;  // Pin untuk sinyal Green
-const int pinLedR = 19;  // Pin untuk sinyal Red
-const int pinLedB = 21;  // Pin untuk sinyal Blue
+const int pinLedG = 25;  // Pin untuk sinyal Green
+const int pinLedR = 26;  // Pin untuk sinyal Red
+const int pinLedB = 27;  // Pin untuk sinyal Blue
 
 AsyncWebServer server(80);
 
