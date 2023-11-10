@@ -7,8 +7,8 @@ const char* password = "PASSWORD WIFI";
 
 // Pinout untuk LED strip
 const int pinLedG = 25;  // Pin untuk sinyal Green
-const int pinLedB = 26;  // Pin untuk sinyal Blue
-const int pinLedR = 27;  // Pin untuk sinyal Red
+const int pinLedR = 26;  // Pin untuk sinyal Red
+const int pinLedB = 27;  // Pin untuk sinyal Blue
 
 AsyncWebServer server(80);
 
