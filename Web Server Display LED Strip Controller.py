@@ -2,13 +2,13 @@
 #include <WiFiClient.h>
 #include <ESPAsyncWebSrv.h>
 
-const char* ssid = "nama_wifi";
-const char* password = "password_wifi";
+const char* ssid = "NAMA WIFI";
+const char* password = "PASSWORD WIFI";
 
 // Pinout untuk LED strip
 const int pinLedG = 25;  // Pin untuk sinyal Green
-const int pinLedR = 26;  // Pin untuk sinyal Red
-const int pinLedB = 27;  // Pin untuk sinyal Blue
+const int pinLedB = 26;  // Pin untuk sinyal Blue
+const int pinLedR = 27;  // Pin untuk sinyal Red
 
 AsyncWebServer server(80);
 
