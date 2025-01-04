@@ -1,0 +1,62 @@
+https://www.youtube.com/watch?v=34BDwDulZl0
+🛠 PROJECT RESOURCES:
+
+🔫 3D design of transmitter's parts: https://cults3d.com/en/3d-model/game/... 
+
+♾️ Code files: https://drive.google.com/drive/folder...
+
+🔌 Wiring diagrams: https://drive.google.com/drive/folder...
+
+🧵 Materials, Parts, & Components list (TRANSMITTER): 
+(x1) Arduino Nano - https://amzn.to/3x9lRyE 
+(x1) NRF24L01 + PA + LNA - https://amzn.to/4egUEuO 
+(x2) Joysticks - https://amzn.to/3yTXOo1 
+(x2) Potentiometers - https://amzn.to/3RfDiEw 
+(x2) Toggle switches - https://amzn.to/4ef1MYh 
+(x5) Pushbuttons - https://amzn.to/4eclBzE 
+(x1) OLED - https://amzn.to/3Vzdd67 
+(x1) Buzzer - https://amzn.to/3KzZyFj 
+(x4) 3mm LEDs - https://amzn.to/3XfCtPU
+(x2) LEDs for charge indication - https://amzn.to/45cXL2F 
+(x1) 5V boost converter - https://amzn.to/3XbuQd9 
+(x1) Power switch - https://amzn.to/3yTaKdK 
+(x2) 18650 cells - https://amzn.to/4bNmdKz 
+(x1) Connector Pair - https://amzn.to/3yWjTlW 
+(x6) 10K Resistors (all found in resistor kit) - https://amzn.to/3ViIRmX 
+(x1) 3.3K Resistor
+(x1) 2.2K Resistor
+(x1) 2K Resistor
+(x1) 1K Resistor
+(x1) 330 Ohm Resistor
+(x1) Female header row - https://amzn.to/3KFX1JH 
+30AWG wire - https://amzn.to/3KylmRO 
+24AWG Wire - https://amzn.to/4aVleGX 
+(x18) M3 Threaded Inserts - https://amzn.to/3Kz4MRL 
+(x18) M3 screws - https://amzn.to/3XehJbp 
+(x2) 5mm Neodymium Magnets - https://amzn.to/3VwQszx 
+(x1) Primer Bulb - https://amzn.to/4c6XQHg 
+
+PRINTING:
+(x1) Matte Black PLA Filament - https://amzn.to/4c6wr8g 
+(x1) Matte Dark Grey PLA Filament - https://amzn.to/4c8KeLI 
+3D Printer I use: Creality Ender 3 V2 - https://amzn.to/45igolH 
+
+🧵 Materials, Parts, & Components list (RECEIVER):
+(x1) Arduino Pro Mini (5V) - https://amzn.to/3RiAFC6 
+(x1) NRF24L01 - https://amzn.to/45nt2jp 
+(x1) AMS1117 3.3V - https://amzn.to/3yRNBbL 
+(x1) 100nF (104) Capacitor - https://amzn.to/3yQ7nEm 
+(x1) 100μF Capacitor (Optional) - https://amzn.to/3X8ktHc 
+(x1) 10μF Capacitor - https://amzn.to/3X8ktHc 
+(x1) 3mm Red LED - https://amzn.to/3XfCtPU
+(x1) 220 Ohm Resistor - https://amzn.to/3ViIRmX 
+(x2) 1 Female and 1 male headers - https://amzn.to/3KFX1JH
+(x1) 4x7cm Perforated Board - https://amzn.to/3z0CwF2 
+30AWG wire - https://amzn.to/3KylmRO 
+
+PROGRAMMING:
+FTDI USB to Serial Converter with Cable (For Pro Mini) - https://amzn.to/3Rk70rU 
+
+As an Amazon Associate, I earn from qualifying purchases with no added cost to you. 
+----------------------------------------------------------------------
+👉 Tools/equipment I use: https://sites.google.com/view/maximag... ----------------------------------------------------------------------
